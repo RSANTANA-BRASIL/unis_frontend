@@ -1,0 +1,33 @@
+.__divisionOptions{
+    background-color: #3D3D3D;  
+    height: 100%;
+   
+}
+.__options{
+    padding-bottom: 2rem;
+}
+.__nameUser{
+    display: flex;
+    justify-content: center;
+    padding:1rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: .8rem;
+    color:white;
+}
+.__option{
+    display: flex;
+}
+.__option{
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+.__optionTitle{
+    padding-left: 1rem;
+}
+.__optionTitle{
+    color: #E2E8F0;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: .8rem;
+}
